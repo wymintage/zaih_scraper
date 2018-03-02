@@ -7,7 +7,7 @@
 
 
 #### 使用须知：
-+ 本爬虫仅处于可使用阶段，还有很多工作需要完成
++ 此爬虫已达到实用阶段，但在代码框架、解释文本、代码可读性等方面还需要进一步完善
 + 需要在run_spider.py文件中，通过选择相应的spidername来运行特定的爬虫
 + 将zaih_scraper/zaih_scraper/settings_sample.py重命名为settings.py以便使配置文件生效
 
